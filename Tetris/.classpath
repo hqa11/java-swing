@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/audio.jar"/>
+	<classpathentry kind="lib" path="lib/org.codehaus.jackson.core_1.6.0.v20101005-0925.jar"/>
+	<classpathentry kind="lib" path="lib/org.codehaus.jackson.mapper_1.6.0.v20101005-0925.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-jaxrs-1.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/netty-3.10.5.Final-sources.jar"/>
+	<classpathentry kind="lib" path="lib/netty-3.10.5.Final.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.5.11.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple-1.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/quaqua.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_79"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

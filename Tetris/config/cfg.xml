@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<frame width="1170" height="700" padding="16" windowSize="7">
+		<layer class="ui.LayerBackGround" y="0" w="0" h="0" x="0" />
+		<layer class="ui.LayerDatabase" y="32" w="334" h="279" x="40" />
+		<layer class="ui.LayerDisk" y="343" w="334" h="279" x="40" />
+		<layer class="ui.LayerGame" y="32" w="334" h="590" x="414" />
+		<layer class="ui.LayerButton" y="32" w="334" h="124" x="788" />
+		<layer class="ui.LayerNext" y="188" w="176" h="116" x="788" />
+		<layer class="ui.LayerLevel" y="188" w="158" h="116" x="964" />
+		<layer class="ui.LayerPoints" y="336" w="334" h="180" x="788" />
+		<layer class="ui.LayerAbout" y="550" w="334" h="70" x="788" />
+	</frame>
+	<!--玩家２的看板-->
+	<lookframe>
+		<layer class="ui.LayerBackGround2" y="0" w="0" h="0" x="0" />
+		<layer class="ui.LayerGame" y="32" w="334" h="590" x="40" />
+		<layer class="ui.LayerPoints" y="630" w="334" h="180" x="40" />
+	</lookframe>
+
+	<system refreshOffsetY="2"  needShadow="1" needActBackGround="1">
+      
+	</system>
+
+    <style>
+    <border value="2" />
+    
+    </style>
+    
+    <netty host= "192.168.6.15" port="10086"></netty>
+    
+	<data>
+
+	</data>
+</game>
